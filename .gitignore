@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ShoppingMall/appsettings.json
+/ShoppingMall/appsettings.Development.json
+/ShoppingMall/Properties/launchSettings.json
